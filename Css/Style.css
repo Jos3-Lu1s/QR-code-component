@@ -1,2 +1,17 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+p{
+    font-family: 'Outfit', sans-serif;
+}
+.paragraphStyle1{
+    font-weight: 700;
+    font-size: 20px;
+}
+.paragraphStyle2{
+    font-size: 14px;
+    color: hsl(220, 15%, 55%);
+}
+
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
